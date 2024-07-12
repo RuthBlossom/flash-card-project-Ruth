@@ -2,6 +2,13 @@
 
 This is a simple flash card application built with Python and Tkinter for learning French vocabulary. It allows users to practice French words by displaying them on flash cards and providing their English translations.
 
+![Capture Flash card 2](https://github.com/user-attachments/assets/109729ec-7e1e-4712-8708-241deb5bceed)
+
+![Capture Flash card 3](https://github.com/user-attachments/assets/55edd058-0bea-493e-8830-c7e63c79c8f4)
+
+
+
+
 ## Features
 
 - **Interactive Flash Cards**: Users can view French words on the front side of the card and their English translations on the back side.
